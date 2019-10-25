@@ -1,0 +1,11 @@
+{
+  "require": {
+    "voku/portable-utf8": "^5.4",
+    "voku/simple_html_dom": "^4.7"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
